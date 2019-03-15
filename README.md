@@ -1,6 +1,6 @@
 # spring-boot-dubbo-demo
 
-参考资料
+参考资料，参考了各种官方demo
 
 [PageHelper](https://github.com/pagehelper/pagehelper-spring-boot)
 
@@ -9,6 +9,8 @@
 [Mybatis](https://github.com/mybatis/spring-boot-starter)
 
 [dubbo](https://github.com/apache/incubator-dubbo-spring-boot-project)
+
+[swagger2](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
 
 dubbo选择了2.6.2版本，相应的springboot选择2.1.1版本，相应的dubbo-starter是0.2.1版本
 
